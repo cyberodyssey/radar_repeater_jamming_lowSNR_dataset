@@ -1,0 +1,1 @@
+Since the free storage space of GitHub LFS is limited, the complete dataset needs to be downloaded from Google Drive. The link is https://drive.google.com/drive/folders/1_0ms3DjoYGt1fAZKY7b2_vW28-VhOe9d?usp=sharing. If you encounter any issues with the download, you can either send an email to hbxgnx@163.com or leave a message under the Issues section.
